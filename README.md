@@ -7,6 +7,12 @@ This `README.md` file provides an in-depth summary and chapter-wise breakdown of
 
 ---
 
+<p align="center">
+  <img src="https://github.com/mdmahamudmredha/NumPy/blob/main/NumPy%20Playlist.png" width="1000"/>
+</p>
+
+---
+
 ## 📅 Video Duration: \~2 Hours 18 Minutes
 
 **Language:** Bangla
